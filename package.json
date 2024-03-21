@@ -17,7 +17,7 @@
   "description": "Custom React hooks to create a sequence of images on a canvas, to be accessed as a single image. Useful for instance to create a sprite sheet from a sequence of images.",
   "license": "MIT",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",

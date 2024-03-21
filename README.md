@@ -7,6 +7,10 @@ Make sure to supply it with a canvas element, and an array of img-src's.
 
 You can now call render with any frame to display.
 
+## demo
+
+[See it](https://john.ro/lab/canvas-frames) in action connected to a scroll-listener from framer-motion
+
 ```jsx
 import { useCanvasSequence } from  "@anthood/use-canvas"
 
